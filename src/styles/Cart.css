@@ -1,0 +1,62 @@
+.thg-cart {
+	color: #000;
+	background-color: #31b572;
+	padding: 32px 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 250px;
+}
+
+.thg-cart-content {
+	border: 1px solid #fff;
+	font-weight: bold;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.thg-cart-add-button {
+	margin-left: 32px;
+	cursor: pointer;
+}
+
+.thg-cart-toggle-button {
+	background: none;
+	padding: 5px 10px;
+	border: white 1px solid;
+	border-radius: 5px;
+	font-weight: 600;
+	cursor: pointer;
+	align-self: self-start;
+	color: white;
+}
+
+.thg-cart-toggle-button:hover {
+	background: #fff;
+	color: #000;
+}
+
+.thg-cart-closed {
+	padding: 32px;
+	width: 250px;
+}
+
+.thg-cart-closed > button {
+	color: #fff;
+	padding: 10px 15px;
+	background-color: #31b572;
+	cursor: pointer;
+	border: transparent 2px solid;
+}
+
+.thg-cart-closed > button:hover {
+	color: #000;
+	background-color: none;
+	border: #31b572 2px solid;
+}
+
+.thg-cart-msg {
+	color: #000;
+	font-weight: bold;
+	margin: 10px 0;
+}

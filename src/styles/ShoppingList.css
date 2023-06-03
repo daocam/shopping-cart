@@ -1,0 +1,29 @@
+.thg-shopping-list {
+	width: 100%;
+}
+
+.thg-plant-block {
+	border: 2px dashed #31b472;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 5px;
+
+}
+
+.thg-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.thg-plant-add-button {
+	background-color: #31b472;
+	padding: 5px 10px;
+	color: #fff;
+	cursor: pointer;
+	font-weight: bold;
+	border: 1px solid transparent;
+	border-radius: 15px;
+}

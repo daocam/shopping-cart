@@ -1,0 +1,23 @@
+.thg-categories {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.thg-categories-select {
+	margin-right: 15px;
+	padding: 5px ;
+	font-size: 15px;
+	border: #31b572 2px solid;
+	border-radius: 5px;
+}
+
+.thg-categories-button {
+	margin-right: 15px;
+	color: #fff;
+	font-weight: bold;
+	border-radius: 5px;
+	padding: 10px 15px;
+	cursor: pointer;
+	background-color: #31b572;
+	border: transparent 2px solid;
+}
