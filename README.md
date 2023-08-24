@@ -10,4 +10,4 @@ This is a shopping cart storefront that uses localStorage to record products add
 ## How to use
 1. Clone the GitHub repository on your computer
 2. At the root of the project launch `npm install`
-3. At the root of the project launch `npm run dev`
+3. At the root of the project launch `npm run dev```
